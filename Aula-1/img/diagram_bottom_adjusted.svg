@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1438.1956"
+   height="871"
+   viewBox="0 0 1438.1956 871"
+   version="1.1"
+   id="svg62"
+   sodipodi:docname="diagram_bottom_adjusted.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview62"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.6775"
+     inkscape:cx="780.81181"
+     inkscape:cy="363.83764"
+     inkscape:window-width="2560"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg62" />
+  <style
+     id="style1">
+    .bg { fill: #fbfbfa; }
+    .problemBox { fill: #DDEBF7; stroke:#d0e0f2; stroke-width:1; }
+    .procBox { fill:#F7D78A; stroke:#e6d48a; }
+    .instr { fill:#A7C7D9; rx:6; ry:6; }
+    .arrow { stroke:#7b7b7b; stroke-width:8; stroke-linecap:round; fill:none; marker-end:url(#arrowhead); }
+    .label { font-family: 'Arial', sans-serif; fill:#444; font-size:22px; }
+    .title { font-family: 'Arial', sans-serif; fill:#444; font-size:28px; }
+  </style>
+  <defs
+     id="defs1">
+    <marker
+       id="arrowhead"
+       markerWidth="10"
+       markerHeight="7"
+       refX="10"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="10,3.5 0,7 0,0 "
+         fill="#7b7b7b"
+         id="polygon1" />
+    </marker>
+  </defs>
+  <!-- Left: stacked problem blocks -->
+  <g
+     transform="translate(0.5,0.5)"
+     id="g5">
+    <rect
+       class="problemBox"
+       x="0"
+       y="0"
+       width="200"
+       height="180"
+       rx="6"
+       ry="6"
+       id="rect2" />
+    <rect
+       class="problemBox"
+       x="0"
+       y="230"
+       width="200"
+       height="180"
+       rx="6"
+       ry="6"
+       id="rect3" />
+    <rect
+       class="problemBox"
+       x="0"
+       y="460"
+       width="200"
+       height="180"
+       rx="6"
+       ry="6"
+       id="rect4" />
+    <rect
+       class="problemBox"
+       x="0"
+       y="690"
+       width="200"
+       height="180"
+       rx="6"
+       ry="6"
+       id="rect5" />
+  </g>
+  <!-- Rows -->
+  <line
+     x1="200.5"
+     y1="90.5"
+     x2="240.5"
+     y2="90.5"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line5" />
+  <rect
+     class="instr"
+     x="250.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect6" />
+  <rect
+     class="instr"
+     x="304.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect7" />
+  <rect
+     class="instr"
+     x="358.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect8" />
+  <rect
+     class="instr"
+     x="412.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect9" />
+  <rect
+     class="instr"
+     x="466.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect10" />
+  <rect
+     class="instr"
+     x="520.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect11" />
+  <rect
+     class="instr"
+     x="574.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect12" />
+  <rect
+     class="instr"
+     x="628.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect13" />
+  <rect
+     class="instr"
+     x="682.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect14" />
+  <rect
+     class="instr"
+     x="736.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect15" />
+  <rect
+     class="instr"
+     x="830.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect16" />
+  <rect
+     class="instr"
+     x="950.5"
+     y="10.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect17" />
+  <line
+     x1="1030.5"
+     y1="80.5"
+     x2="1160.5"
+     y2="80.5"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line17" />
+  <text
+     x="280.5"
+     y="170.5"
+     class="label"
+     id="text17">EN</text>
+  <text
+     x="740.5"
+     y="170.5"
+     class="label"
+     id="text18">t3</text>
+  <text
+     x="1060.5"
+     y="170.5"
+     class="label"
+     id="text19">t1</text>
+  <line
+     x1="200.5"
+     y1="320.5"
+     x2="240.5"
+     y2="320.5"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line19" />
+  <rect
+     class="instr"
+     x="250.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect19" />
+  <rect
+     class="instr"
+     x="304.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect20" />
+  <rect
+     class="instr"
+     x="358.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect21" />
+  <rect
+     class="instr"
+     x="412.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect22" />
+  <rect
+     class="instr"
+     x="466.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect23" />
+  <rect
+     class="instr"
+     x="520.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect24" />
+  <rect
+     class="instr"
+     x="574.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect25" />
+  <rect
+     class="instr"
+     x="628.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect26" />
+  <rect
+     class="instr"
+     x="682.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect27" />
+  <rect
+     class="instr"
+     x="736.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect28" />
+  <rect
+     class="instr"
+     x="830.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect29" />
+  <rect
+     class="instr"
+     x="950.5"
+     y="240.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect30" />
+  <line
+     x1="1030.5"
+     y1="310.5"
+     x2="1160.5"
+     y2="310.5"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line30" />
+  <text
+     x="280.5"
+     y="400.5"
+     class="label"
+     id="text30">EN</text>
+  <text
+     x="740.5"
+     y="400.5"
+     class="label"
+     id="text31">t3</text>
+  <text
+     x="1060.5"
+     y="400.5"
+     class="label"
+     id="text32">t1</text>
+  <line
+     x1="200.5"
+     y1="550.5"
+     x2="240.5"
+     y2="550.5"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line32" />
+  <rect
+     class="instr"
+     x="250.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect32" />
+  <rect
+     class="instr"
+     x="304.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect33" />
+  <rect
+     class="instr"
+     x="358.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect34" />
+  <rect
+     class="instr"
+     x="412.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect35" />
+  <rect
+     class="instr"
+     x="466.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect36" />
+  <rect
+     class="instr"
+     x="520.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect37" />
+  <rect
+     class="instr"
+     x="574.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect38" />
+  <rect
+     class="instr"
+     x="628.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect39" />
+  <rect
+     class="instr"
+     x="682.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect40" />
+  <rect
+     class="instr"
+     x="736.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect41" />
+  <rect
+     class="instr"
+     x="830.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect42" />
+  <rect
+     class="instr"
+     x="950.5"
+     y="470.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect43" />
+  <line
+     x1="1030.5"
+     y1="540.5"
+     x2="1160.5"
+     y2="540.5"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line43" />
+  <text
+     x="280.5"
+     y="630.5"
+     class="label"
+     id="text43">EN</text>
+  <text
+     x="740.5"
+     y="630.5"
+     class="label"
+     id="text44">t3</text>
+  <text
+     x="1060.5"
+     y="630.5"
+     class="label"
+     id="text45">t1</text>
+  <line
+     x1="200.5"
+     y1="780.5"
+     x2="240.5"
+     y2="780.5"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line45" />
+  <rect
+     class="instr"
+     x="250.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect45" />
+  <rect
+     class="instr"
+     x="304.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect46" />
+  <rect
+     class="instr"
+     x="358.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect47" />
+  <rect
+     class="instr"
+     x="412.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect48" />
+  <rect
+     class="instr"
+     x="466.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect49" />
+  <rect
+     class="instr"
+     x="520.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect50" />
+  <rect
+     class="instr"
+     x="574.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect51" />
+  <rect
+     class="instr"
+     x="628.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect52" />
+  <rect
+     class="instr"
+     x="682.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect53" />
+  <rect
+     class="instr"
+     x="736.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect54" />
+  <rect
+     class="instr"
+     x="830.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect55" />
+  <rect
+     class="instr"
+     x="950.5"
+     y="700.5"
+     width="40"
+     height="140"
+     rx="6"
+     ry="6"
+     id="rect56" />
+  <line
+     x1="1030.5"
+     y1="770.5"
+     x2="1160.5"
+     y2="770.5"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line56" />
+  <text
+     x="280.5"
+     y="860.5"
+     class="label"
+     id="text56">EN</text>
+  <text
+     x="740.5"
+     y="860.5"
+     class="label"
+     id="text57">t3</text>
+  <text
+     x="1060.5"
+     y="860.5"
+     class="label"
+     id="text58">t1</text>
+  <!-- Right: processors vertical -->
+  <rect
+     class="procBox"
+     x="1177.6956"
+     y="34.743538"
+     width="260"
+     height="90"
+     rx="10"
+     ry="10"
+     id="rect58" />
+  <text
+     x="1306.5813"
+     y="84.385132"
+     class="title"
+     text-anchor="middle"
+     id="text59">processor</text>
+  <rect
+     class="procBox"
+     x="1177.6956"
+     y="265.92435"
+     width="260"
+     height="90"
+     rx="10"
+     ry="10"
+     id="rect59" />
+  <text
+     x="1306.5813"
+     y="315.56595"
+     class="title"
+     text-anchor="middle"
+     id="text60">processor</text>
+  <rect
+     class="procBox"
+     x="1177.6956"
+     y="492.67712"
+     width="260"
+     height="90"
+     rx="10"
+     ry="10"
+     id="rect60" />
+  <text
+     x="1306.5813"
+     y="542.31873"
+     class="title"
+     text-anchor="middle"
+     id="text61">processor</text>
+  <rect
+     class="procBox"
+     x="1177.6956"
+     y="725.33392"
+     width="260"
+     height="90"
+     rx="10"
+     ry="10"
+     id="rect61" />
+  <text
+     x="1306.5813"
+     y="774.97552"
+     class="title"
+     text-anchor="middle"
+     id="text62">processor</text>
+</svg>

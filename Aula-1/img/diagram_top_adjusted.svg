@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1600"
+   height="600"
+   viewBox="0 0 1600 600"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="diagram_top_adjusted.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.79549513"
+     inkscape:cx="896.29713"
+     inkscape:cy="211.81776"
+     inkscape:window-width="2560"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <style
+     id="style1">
+    .bg { fill: #fbf8f6; }
+    .problem { fill: #F7DCC9; stroke: #e6cdbf; stroke-width:1; rx:30; ry:30; }
+    .processor { fill: #F7D78A; stroke: #e6d48a; stroke-width:1; rx:12; ry:12; }
+    .instr { fill: #A7C7D9; rx:6; ry:6; }
+    .arrow { stroke:#7b7b7b; stroke-width:10; stroke-linecap:round; fill:none; marker-end:url(#arrowhead); }
+    .label { font-family: 'Arial', sans-serif; fill:#555; font-size:36px; }
+    .smallLabel { font-family: 'Arial', sans-serif; fill:#666; font-size:28px; font-style:italic; }
+  </style>
+  <defs
+     id="defs1">
+    <marker
+       id="arrowhead"
+       markerWidth="10"
+       markerHeight="7"
+       refX="10"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0 0, 10 3.5, 0 7"
+         fill="#7b7b7b"
+         id="polygon1" />
+    </marker>
+  </defs>
+  <!-- Problem box -->
+  <rect
+     class="problem"
+     x="534.56598"
+     y="68.345032"
+     width="338.7782"
+     height="101.63345"
+     rx="20.326691"
+     ry="20.326691"
+     id="rect2" />
+  <text
+     x="703.95508"
+     y="131.86594"
+     text-anchor="middle"
+     class="label"
+     id="text2"
+     style="stroke-width:0.846945">problema</text>
+  <!-- Arrow down -->
+  <line
+     x1="703.95508"
+     y1="187.97849"
+     x2="703.95508"
+     y2="255.73413"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line2" />
+  <!-- Instruction bars -->
+  <g
+     id="instrs"
+     transform="matrix(0.84694547,0,0,0.84694547,111.0932,281.14248)">
+    <rect
+       class="instr"
+       x="0"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect3" />
+    <rect
+       class="instr"
+       x="70"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect4" />
+    <rect
+       class="instr"
+       x="140"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect5" />
+    <rect
+       class="instr"
+       x="210"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect6" />
+    <rect
+       class="instr"
+       x="280"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect7" />
+    <rect
+       class="instr"
+       x="350"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect8" />
+    <rect
+       class="instr"
+       x="420"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect9" />
+    <rect
+       class="instr"
+       x="490"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect10" />
+    <rect
+       class="instr"
+       x="560"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect11" />
+    <rect
+       class="instr"
+       x="630"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect12" />
+    <rect
+       class="instr"
+       x="700"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect13" />
+    <rect
+       class="instr"
+       x="770"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect14" />
+    <rect
+       class="instr"
+       x="900"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect15" />
+    <rect
+       class="instr"
+       x="1160"
+       y="0"
+       width="56"
+       height="200"
+       rx="8"
+       ry="8"
+       id="rect16" />
+    <text
+       x="40"
+       y="240"
+       class="smallLabel"
+       id="text16">EN</text>
+    <text
+       x="940"
+       y="240"
+       class="smallLabel"
+       id="text17">t3</text>
+    <text
+       x="1300"
+       y="240"
+       class="smallLabel"
+       id="text18">t1</text>
+  </g>
+  <!-- Arrow to processor -->
+  <line
+     x1="1212.1222"
+     y1="365.83704"
+     x2="1279.8778"
+     y2="365.83704"
+     class="arrow"
+     marker-end="url(#arrowhead)"
+     id="line18" />
+  <!-- Processor box -->
+  <rect
+     class="processor"
+     x="1297.0096"
+     y="315.21323"
+     width="252.19208"
+     height="101.24757"
+     rx="21.616465"
+     ry="10.124758"
+     id="rect18" />
+  <text
+     x="1325.933"
+     y="376.02704"
+     class="label"
+     id="text19"
+     style="stroke-width:0.846945">processador</text>
+</svg>
